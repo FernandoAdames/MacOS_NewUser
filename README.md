@@ -10,6 +10,8 @@ This tutorial applies to macOS Ventura and later
 ## Step 1: Open System Settings or system Preferences(for older versions)
 Click the Apple logo () in the top-left corner of your screen.
 
+Or head ro the top right corner where the magnifying glass icon is and type system preferences
+
 Select System Settings or System Preferences from the dropdown menu.
 
 ## Step 2: Navigate to Users & Groups
@@ -41,6 +43,12 @@ Password Hint: Optional, but recommended for accessibility
 Once everything is filled in, click Create User.
 
 ## Step 6: Log In to the New Account (Optional)
+After clicking Create User, the new account will appear in the left-hand list under “Users & Groups.”
+
+Make sure the new user's account type is listed correctly (e.g., Standard).
+
+Optionally: Click the Apple logo  > Log Out [YourName] to view the login screen and verify the new account is visible there.
+
 Click the Apple logo () > Log Out [YourName]
 
 On the login screen, select the new user account you just created.
