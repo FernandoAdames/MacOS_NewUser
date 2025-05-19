@@ -10,7 +10,7 @@ This tutorial applies to macOS Ventura and later
 ## Step 1: Open System Settings or system Preferences(for older versions)
 Click the Apple logo () in the top-left corner of your screen.
 
-Or head ro the top right corner where the magnifying glass icon is and type system preferences
+Or head to the top right corner where the magnifying glass icon is and type system preferences
 
 Select System Settings or System Preferences from the dropdown menu.
 
