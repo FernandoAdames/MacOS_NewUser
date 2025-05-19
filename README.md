@@ -7,7 +7,6 @@ You must be logged into an administrator account on the Mac.
 
 This tutorial applies to macOS Ventura and later
 
-✅ Steps to Create a New User Account:
 ## Step 1: Open System Settings or system Preferences(for older versions)
 Click the Apple logo () in the top-left corner of your screen.
 
